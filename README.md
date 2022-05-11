@@ -1,1 +1,1 @@
-# é um html sobre um site orientado pelo instrutor do alura
+# é um html de um site orientado pelo instrutor do alura
